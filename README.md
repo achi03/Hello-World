@@ -1,5 +1,5 @@
 ## For install Tutorial [HERE](https://Blog AchiThoVhenrank bit.ly/2E5QK95
-Fb  achi https://bit.ly/1KaOWrk
+Fb achi https://bit.ly/1KaOWrk
 Vps Gratis http://linuxzoo.net)
 # LINE Python
 
@@ -16,7 +16,7 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/Achijie/helloworld
+$ git clone https://github.com/achi03/Hello-World
 $ cd helloworld
 $ pip3 install akad
 $ pip3 install beautifulsoup4
@@ -55,7 +55,7 @@ $ python3 helloworld.py
 ## VPS
 
 ```sh
-$ git clone https://github.com/Achijie/helloworld
+$ git clone https://github.com/achi03/Hello-World
 $ cd helloworld
 $ python3 -m pip install -r requirements.txt
 $ python3 helloworld.py -a IOSIPAD
