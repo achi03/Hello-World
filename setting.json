@@ -1,0 +1,55 @@
+{
+    "autoAdd": {
+        "status": false,
+        "message": "Hello @https://m.youtube.com/my_videos?disable_polymer=true&csn=q9Y6XJOVKsWiz7sPhomzqAc",
+        "reply": true
+    },
+    "autoJoin": {
+        "status": false,
+        "message": "Hello @https://m.youtube.com/my_videos?disable_polymer=true&csn=q9Y6XJOVKsWiz7sPhomzqAc",
+        "reply": true,
+        "ticket": false
+    },
+    "autoRead": false,
+    "autoRespond": {
+        "status": false,
+        "message": "Hello @https://m.youtube.com/my_videos?disable_polymer=true&csn=q9Y6XJOVKsWiz7sPhomzqAc"
+    },
+    "autoRespondMention": {
+        "status": true,
+        "message": "Hello @https://m.youtube.com/my_videos?disable_polymer=true&csn=q9Y6XJOVKsWiz7sPhomzqAc"
+    },
+    "changeGroupPicture": [],
+    "changePictureProfile": false,
+    "changeCoverPicture": false,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "defaultReplyReader" : "Hello @https://m.youtube.com/my_videos?disable_polymer=true&csn=q9Y6XJOVKsWiz7sPhomzqAc",
+    "greet": {
+        "join": {
+            "status": true,
+            "message": "Hello @https://m.youtube.com/my_videos?disable_polymer=true&csn=q9Y6XJOVKsWiz7sPhomzqAc"
+        },
+        "leave": {
+            "status": false,
+            "message": "Good bye @!, see you next time"
+        }
+    },
+    "myProfile": {
+        "coverId": "",
+        "displayName": "",
+        "pictureStatus": "",
+        "statusMessage": ""
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "setKey": {
+        "status": true,
+        "key": "."
+    },
+    "copyright": "If you respect the author please don't remove this copyright\n© 2019 Hacker Bugis",
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~zero-cool404"
+}
