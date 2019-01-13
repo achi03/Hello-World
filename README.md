@@ -1,6 +1,4 @@
-## For install Tutorial [HERE](https://Blog AchiThoVhenrank bit.ly/2E5QK95
-Fb achi https://bit.ly/1KaOWrk
-Vps Gratis http://linuxzoo.net)
+## For install Tutorial [HERE](https://m.youtube.com/my_videos?disable_polymer=true&csn=q9Y6XJOVKsWiz7sPhomzqAc)
 # LINE Python
 
 *LINE Messaging's private API*
